@@ -251,7 +251,7 @@ export default function Home() {
                 {/* Enhanced trust indicators */}
                 <div className="flex items-center justify-center sm:justify-start gap-4 sm:gap-8 pt-4 animate-fade-in-up delay-400">
                   <div className="text-center group hover-scale">
-                    <div className="text-xl sm:text-2xl font-bold text-white group-hover:text-green-400 transition-colors animate-heartbeat">₹5K+</div>
+                    <div className="text-xl sm:text-2xl font-bold text-white group-hover:text-green-400 transition-colors animate-heartbeat">Aaditech</div>
                     <div className="text-xs sm:text-sm text-gray-300">Starting Price</div>
                   </div>
                   <div className="text-center group hover-scale">
