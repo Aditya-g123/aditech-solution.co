@@ -251,7 +251,7 @@ export default function Home() {
                 {/* Enhanced trust indicators */}
                 <div className="flex items-center justify-center sm:justify-start gap-4 sm:gap-8 pt-4 animate-fade-in-up delay-400">
                   <div className="text-center group hover-scale">
-                    <div className="text-xl sm:text-2xl font-bold text-white group-hover:text-green-400 transition-colors animate-heartbeat">Aaditech</div>
+                    <div className="text-xl sm:text-2xl font-bold text-white group-hover:text-green-400 transition-colors animate-heartbeat">5K</div>
                     <div className="text-xs sm:text-sm text-gray-300">Starting Price</div>
                   </div>
                   <div className="text-center group hover-scale">
@@ -286,7 +286,7 @@ export default function Home() {
 
                   {/* Enhanced floating elements around image */}
                   <div className="absolute -top-4 -right-4 w-10 h-10 sm:w-12 sm:h-12 bg-green-500 rounded-full animate-bounce flex items-center justify-center shadow-lg hover-scale">
-                    <span className="text-white font-bold text-xs sm:text-sm">₹5K</span>
+                    <span className="text-white font-bold text-xs sm:text-sm">Aaditech</span>
                   </div>
                   <div className="absolute -bottom-4 -left-4 w-12 h-12 sm:w-16 sm:h-16 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full animate-pulse flex items-center justify-center shadow-lg hover-scale">
                     <CheckCircle size={20} className="sm:w-6 sm:h-6 text-white" />
@@ -559,13 +559,13 @@ export default function Home() {
                   bio: "Visionary leader with over 10 years of experience in the tech industry."
                 },
                 {
-                  name: "Ravi Sharma",
+                  name: "Ravi",
                   role: "CTO",
                   image: "/images/business-team.png",
                   bio: "Tech expert specializing in software architecture and emerging technologies."
                 },
                 {
-                  name: "Ananya Desai",
+                  name: "priya",
                   role: "Lead Designer",
                   image: "/images/team-member-green.png",
                   bio: "Creative professional with a passion for user-centered design."
